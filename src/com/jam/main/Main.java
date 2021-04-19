@@ -11,7 +11,7 @@ public class Main {
 		
 		DatabaseConnector.allvalues(); // connect to the database FIRST !!! 
 		
-		MainGui.main(null);  // Launch the gui 
+	    	MainGui.main(null);  // Launch the gui 
 		
 		
 		

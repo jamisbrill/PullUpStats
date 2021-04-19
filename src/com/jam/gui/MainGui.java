@@ -27,8 +27,8 @@ public class MainGui extends JFrame {
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
-			public void run() {
-				try {
+			public void run() {   
+				 try {
 					MainGui frame = new MainGui();
 					frame.setVisible(true);
 					
