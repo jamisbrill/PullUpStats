@@ -27,7 +27,7 @@ static String sql=null;
 
 //  Database credentials
 static final String USER = "jam"; // username for DB 
-static final String PASS = "jamtestpass"; // Hide this   //pass for DB 
+static final String PASS = "jamtestpass"; // Hide this   // test pass for DB 
 
 
 public static String allvalues() {

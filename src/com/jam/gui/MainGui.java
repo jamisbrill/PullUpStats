@@ -29,10 +29,10 @@ public class MainGui extends JFrame {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {   
 				 try {
-					MainGui frame = new MainGui();
+					 MainGui frame = new MainGui();
 					frame.setVisible(true);
 					
-					DatabaseConnector.allvalues();
+			//		DatabaseConnector.allvalues(); // connect to DB 
 
 				
 					
