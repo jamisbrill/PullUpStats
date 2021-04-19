@@ -37,7 +37,7 @@ public static String allvalues() {
 
 	//sql =  DataFile.getSql();
 
-
+	// Might not need 
 	if (sql == "" || sql == null || sql.isEmpty()) {    // stops there being an empty statement 
 
 		sql = "SELECT * FROM Stats"; // default show all data in db statement 
