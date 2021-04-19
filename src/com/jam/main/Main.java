@@ -9,7 +9,7 @@ public class Main {
 
 		
 		
-		DatabaseConnector.allvalues(); // connect to the database FIRST !!! not b4 
+		DatabaseConnector.allvalues(); // connect to the database FIRST !!! not b4 ss
 		
 	    	MainGui.main(null);  // Launch the gui 
 		

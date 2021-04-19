@@ -32,7 +32,7 @@ public class MainGui extends JFrame {
 					 MainGui frame = new MainGui();
 					frame.setVisible(true);
 					
-			//		DatabaseConnector.allvalues(); // connect to DB 
+			//		DatabaseConnector.allvalues(); // connect to DB ss
 
 				
 					
